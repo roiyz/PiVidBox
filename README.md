@@ -89,7 +89,8 @@ Switch the USB drives if you want to view other videos, the raspberry pi will ju
 
 <h3>Bonus</h3>
 If you have access to a 3d printer, you can also print the following USB drives and sd 
-cards [stand]("https://www.thingiverse.com/thing:3983948") with a hook for the USB extension cable. 
+cards 
+[stand]("https://www.thingiverse.com/thing:3983948") with a hook for the USB extension cable. 
 You can also place some stickers to easily identify the contents of each usb drive just like I did.
 
 ![USB stand](https://raw.githubusercontent.com/roiyz/PiVidBox/master/images/in_action.jpg)
