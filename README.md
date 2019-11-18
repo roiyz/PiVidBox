@@ -1,8 +1,8 @@
 Raspberry Pi Video Box
 =========================
-<h2>Or how to repurpose old PIs and thumb drives as asuper simple to use media box</h2>
+<h2>Or how to repurpose old PIs and thumb drives as a super simple to use media box</h2>
 <h3>Intro</h3>
-It's hard for me to count how many different online video services we have today. Hack, with cable and wireless services just bundling additional streaming services with their wireless accounts, I'm not sure I know how many streaming services our family is actually subscribed to. This is all great, and probably a great time to be alive, **however**, this also introduces another problem. I call it the __Viewing Choice Paralysis__
+It's hard for me to count how many different online video services we have today. Hack, with cable and wireless services just bundling additional streaming services with their wireless accounts, I'm not sure I know how many streaming services our family is actually subscribed to. This is all great, and probably a great time to be alive, **however**, this also introduces another problem. I call it the **Viewing Choice Paralysis**
 
 In some situations, the choice is easy when you just want to watch the newly, just released, episode of your favorite show, but in some other cases, instead of spending minutes trying to decide what to watch, all you want to do is just watch an episode or a movie that you may have watched before. For example, I'm a big fan of Seinfeld, where watching old episodes (that I've probably seen before multiple times) can still crack me up. The same goes for shows like "Who's line is it anyway", any monthy python episode or video and more. You get the point. So basically, to avoid the Viewing Choice Paralysis problem, I wanted to have something that chooses a random episode for me, with the requirement of me choosing a specific category to watch (e.g. comedy, kids stuff, specific series, etc).
 
