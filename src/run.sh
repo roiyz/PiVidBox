@@ -1,7 +1,7 @@
 #!/bin/bash
 OIFS="$IFS"
 IFS=$'\n'
-echo "starting" > /tmp/log.txt
+echo "starting" > /tmp/out.txt
 sleep 10
 while true
 do
