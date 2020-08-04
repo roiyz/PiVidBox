@@ -1,6 +1,9 @@
 Raspberry Pi Video Box
 =========================
 <h2>Or how to repurpose old PIs and thumb drives as a super simple to use media box</h2>
+
+Also check this related [article](https://magpi.raspberrypi.org/articles/pividbox) on the magpi magazine 
+
 <h3>Intro</h3>
 It's hard for me to count how many different online video services we have today. Hack, with cable and wireless services just bundling additional streaming services with their wireless accounts, I'm not sure I know how many streaming services our family is actually subscribed to. This is all great, and probably a great time to be alive,however, this also introduces another problem. I call it the Viewing Choice Paralysis
 
